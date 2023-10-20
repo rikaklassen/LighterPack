@@ -133,7 +133,7 @@ Suunto Core
 - "Lightweight Footwear Systems for Snow Travel Part 2: Components". *BackpackingLight.com*, March 27, 2007. <http://www.backpackinglight.com/cgi-bin/backpackinglight/lightweight_footwear_systems_for_snow_travel_part_2.html>.
 - "Lightweight Footwear Systems for Snow Travel Part 3: Model Lightweight Footwear Systems for Snow Hiking, Snowshoeing, and Snow Camping". *BackpackingLight.com*, April 3, 2007. <http://www.backpackinglight.com/cgi-bin/backpackinglight/lightweight_footwear_systems_for_snow_travel_part_3.html>.
 ## Forums
-- [https://forums.outdoorsdirectory.com/](Alaska Outdoors Forum]
+- [Alaska Outdoors Forum](https://forums.outdoorsdirectory.com/)
 - [BackpackingLight](http://www.backpackinglight.com/cgi-bin/backpackinglight/forums/)
 - [Folding Kayaks Forum](https://foldingkayaks.org/phpBB/)
 - [Packrafting](http://packrafting.org/forums/)
